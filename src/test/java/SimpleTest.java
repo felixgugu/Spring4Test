@@ -17,6 +17,14 @@ import org.springframework.web.context.WebApplicationContext;
 
 import zz.felix.spring4test.WebConfig;
 
+
+/**
+ * 
+ * http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#spring-mvc-test-framework
+ * 
+ * @author felix
+ *
+ */
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
 @ContextHierarchy({
